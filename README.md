@@ -53,7 +53,7 @@
    ```
 
 ## 🔗 Link da Solução
-[**[Acesse a aplicação aqui](https://amazoniahack2024-ybacontrol.vercel.app/)**](#) 
+**[Acesse a aplicação aqui](https://amazoniahack2024-ybacontrol.vercel.app/)**
 ## 👥 Equipe
 - Beatriz Karoline Cordeiro da Silva - Suporte/Designer
 - Sonia Janara - Desenvolvedora
@@ -63,4 +63,3 @@
 💡 **Dica**: Utilize o botão de relatório para baixar um JSON com todos os dados dos produtores cadastrados. Ideal para análise e compartilhamento de informações!
 
 🌿 Desenvolvido com amor pela equipe Ybá! 
-``` 
